@@ -1,5 +1,6 @@
 # bottom_sheet
 
+![mockup](https://github.com/recepozturk53/bottom_sheet/blob/master/screenshots/btmsheet.png)
 A new Flutter application.
 
 ## Getting Started
